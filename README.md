@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">[Discord] - ATIO (V1.3.0)</h1>
-<h1 align="center">The project is no longer under active development and will not receive any further updates or bug fixes.</h1>
+<h1 align="center">https://sendgb.com/ayOg27xItCW</h1>
 <p align="center">
   <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
